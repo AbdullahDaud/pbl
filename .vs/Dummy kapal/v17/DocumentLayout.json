@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|d:\\pulau unity\\dummy-kapal-main\\dummy kapal\\assets\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\assets\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\assets\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|d:\\pulau unity\\dummy-kapal-main\\dummy kapal\\assets\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\assets\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\assets\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\assets\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\assets\\cannoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EnemySpawner.cs",
               "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\EnemySpawner.cs",
               "RelativeDocumentMoniker": "Assets\\EnemySpawner.cs",
@@ -95,8 +95,7 @@
               "RelativeToolTip": "Assets\\EnemySpawner.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAuwFUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T17:36:16.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T17:36:16.568Z"
             },
             {
               "$type": "Document",
@@ -112,15 +111,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BulletController.cs",
               "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\BulletController.cs",
               "RelativeDocumentMoniker": "Assets\\BulletController.cs",
               "ToolTip": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\BulletController.cs",
               "RelativeToolTip": "Assets\\BulletController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowC0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T22:44:33.371Z"
+              "WhenOpened": "2024-09-28T22:44:33.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -148,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EnemyPatrol.cs",
               "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\EnemyPatrol.cs",
               "RelativeDocumentMoniker": "Assets\\EnemyPatrol.cs",
@@ -172,15 +172,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "enemyhealth.cs",
               "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\enemyhealth.cs",
               "RelativeDocumentMoniker": "Assets\\enemyhealth.cs",
               "ToolTip": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\enemyhealth.cs",
               "RelativeToolTip": "Assets\\enemyhealth.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwB0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T21:47:11.042Z"
+              "WhenOpened": "2024-09-30T21:47:11.042Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
