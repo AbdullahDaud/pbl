@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|d:\\pulau unity\\dummy-kapal-main\\dummy kapal\\assets\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\assets\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\assets\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\assets\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\assets\\cannoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\cannoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\assets\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\assets\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\assets\\bouyan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D038B36B-A2B5-3C0B-DC55-1A478962F086}|Assembly-CSharp.csproj|solutionrelative:assets\\bouyan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E87195-556D-6354-088D-E007E294294E}|WaterSystem.Editor.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\packages\\com.verasl.water-system\\editor\\watersurfacedataeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E87195-556D-6354-088D-E007E294294E}|WaterSystem.Editor.csproj|solutionrelative:packages\\com.verasl.water-system\\editor\\watersurfacedataeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C8DC68-FB7B-1415-15AF-8F06682A216D}|Unity.RenderPipelines.Universal.Runtime.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\library\\packagecache\\com.unity.render-pipelines.universal@14.0.11\\runtime\\universalrenderpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C8DC68-FB7B-1415-15AF-8F06682A216D}|Unity.RenderPipelines.Universal.Runtime.csproj|solutionrelative:library\\packagecache\\com.unity.render-pipelines.universal@14.0.11\\runtime\\universalrenderpipeline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A115A8-7411-A3F6-2ECA-FFB0DD549800}|WaterSystem.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\packages\\com.verasl.water-system\\scripts\\buoyantobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A115A8-7411-A3F6-2ECA-FFB0DD549800}|WaterSystem.csproj|solutionrelative:packages\\com.verasl.water-system\\scripts\\buoyantobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A115A8-7411-A3F6-2ECA-FFB0DD549800}|WaterSystem.csproj|D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\packages\\com.verasl.water-system\\scripts\\data\\watersettingsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A115A8-7411-A3F6-2ECA-FFB0DD549800}|WaterSystem.csproj|solutionrelative:packages\\com.verasl.water-system\\scripts\\data\\watersettingsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyMovement.cs",
+              "ToolTip": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\EnemyMovement.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:28:30.041Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "camerashake.cs",
+              "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\camerashake.cs",
+              "RelativeDocumentMoniker": "Assets\\camerashake.cs",
+              "ToolTip": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\camerashake.cs",
+              "RelativeToolTip": "Assets\\camerashake.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:48:22.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemySpawner.cs",
+              "ToolTip": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\EnemySpawner.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T17:36:16.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WaterSettingsData.cs",
+              "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Packages\\com.verasl.water-system\\Scripts\\Data\\WaterSettingsData.cs",
+              "RelativeDocumentMoniker": "Packages\\com.verasl.water-system\\Scripts\\Data\\WaterSettingsData.cs",
+              "ToolTip": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Packages\\com.verasl.water-system\\Scripts\\Data\\WaterSettingsData.cs",
+              "RelativeToolTip": "Packages\\com.verasl.water-system\\Scripts\\Data\\WaterSettingsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:17:48.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BulletController.cs",
+              "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\BulletController.cs",
+              "RelativeDocumentMoniker": "Assets\\BulletController.cs",
+              "ToolTip": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\BulletController.cs",
+              "RelativeToolTip": "Assets\\BulletController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowC0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:44:33.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BuoyantObject.cs",
+              "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Packages\\com.verasl.water-system\\Scripts\\BuoyantObject.cs",
+              "RelativeDocumentMoniker": "Packages\\com.verasl.water-system\\Scripts\\BuoyantObject.cs",
+              "ToolTip": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Packages\\com.verasl.water-system\\Scripts\\BuoyantObject.cs",
+              "RelativeToolTip": "Packages\\com.verasl.water-system\\Scripts\\BuoyantObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:51:01.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UniversalRenderPipeline.cs",
+              "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Runtime\\UniversalRenderPipeline.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Runtime\\UniversalRenderPipeline.cs",
+              "ToolTip": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Runtime\\UniversalRenderPipeline.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.11\\Runtime\\UniversalRenderPipeline.cs",
+              "ViewState": "AgIAAK4CAAAAAAAAAAAjwMACAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:55:48.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyPatrol.cs",
+              "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\EnemyPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyPatrol.cs",
+              "ToolTip": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\EnemyPatrol.cs",
+              "RelativeToolTip": "Assets\\EnemyPatrol.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:52:55.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WaterSurfaceDataEditor.cs",
+              "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Packages\\com.verasl.water-system\\Editor\\WaterSurfaceDataEditor.cs",
+              "RelativeDocumentMoniker": "Packages\\com.verasl.water-system\\Editor\\WaterSurfaceDataEditor.cs",
+              "ToolTip": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Packages\\com.verasl.water-system\\Editor\\WaterSurfaceDataEditor.cs",
+              "RelativeToolTip": "Packages\\com.verasl.water-system\\Editor\\WaterSurfaceDataEditor.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAwwGkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:31:53.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enemyhealth.cs",
+              "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\enemyhealth.cs",
+              "RelativeDocumentMoniker": "Assets\\enemyhealth.cs",
+              "ToolTip": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\enemyhealth.cs",
+              "RelativeToolTip": "Assets\\enemyhealth.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:47:11.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CannonController.cs",
+              "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\CannonController.cs",
+              "RelativeDocumentMoniker": "Assets\\CannonController.cs",
+              "ToolTip": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\CannonController.cs",
+              "RelativeToolTip": "Assets\\CannonController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwEwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:44:13.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bouyan.cs",
+              "DocumentMoniker": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\Bouyan.cs",
+              "RelativeDocumentMoniker": "Assets\\Bouyan.cs",
+              "ToolTip": "D:\\PULAU UNITY\\Dummy-kapal-main\\Dummy kapal\\Assets\\Bouyan.cs",
+              "RelativeToolTip": "Assets\\Bouyan.cs",
+              "ViewState": "AgIAAIEBAAAAAAAAAAAmwJEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:04:09.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
